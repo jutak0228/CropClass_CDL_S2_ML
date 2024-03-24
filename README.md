@@ -35,7 +35,6 @@ Three parts, 1.5 hour each, held twice daily (2 sessions per part).
 
 ## SESSIONS
 ### Part 1: Data Preparation of Imagery for Large-Scale ML Modeling
-Tuesday, March 5, 2024
 
 Trainers: Sean McCartney
 Guest Instructors: John Just (Deere & Co.), Erik Sorensen (Deere & Co.)
@@ -45,7 +44,6 @@ Obtain Sentinel-2 raster files for a given area and timeframe corresponding to t
 Verify correct processing of data via various interactive plots (e.g. time series of pixels of various land covers).
 
 ### Part 2: Data Loaders for Training ML Models on Irregularly-Spaced Time-Series of Imagery
-Tuesday, March 12, 2024
 
 Recording: NASA ARSET: Data Loaders for Training ML Models on Irregularly-Spaced Time-Series Imagery, Part 2/3
 
@@ -57,7 +55,6 @@ Follow steps to parallelize/prefetch preprocessing for fast training
 Apply the correct procedure to split time-series data into train/val/test sets to avoid data leakage
 
 ### Part 3: Training & Testing ML Models for Irregularly-Spaced Time Series of Imagery
-Tuesday, March 19, 2024
 
 Trainers: Sean McCartney
 Guest Instructors: John Just (Deere & Co.), Erik Sorensen (Deere & Co.)
