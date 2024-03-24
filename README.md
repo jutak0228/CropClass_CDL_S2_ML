@@ -45,8 +45,6 @@ Verify correct processing of data via various interactive plots (e.g. time serie
 
 ### Part 2: Data Loaders for Training ML Models on Irregularly-Spaced Time-Series of Imagery
 
-Recording: NASA ARSET: Data Loaders for Training ML Models on Irregularly-Spaced Time-Series Imagery, Part 2/3
-
 Trainers: Sean McCartney
 Guest Instructors: John Just (Deere & Co.), Erik Sorensen (Deere & Co.)
 Follow the process to set up a Tensorflow data loader that works with Parquet files to create a training pipeline suitable for training a model on large-scale data
